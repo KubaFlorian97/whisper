@@ -1,0 +1,13 @@
+package com.whisper.dto.user;
+
+import lombok.Builder;
+import lombok.Data;
+
+@Data
+@Builder
+public class PublicKeyResponse {
+
+    private Long userId;
+    private String publicKey;
+
+}

@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+frontend-web/node_modules/
+frontend-web/dist/
+frontend-web/build/
+frontend-web/.env
+frontend-web/.env.local
+
+backend/.gradle/
+backend/build/
+backend/out/
+backend/target/
+backend/src/main/resources/firebase-service-account.json
