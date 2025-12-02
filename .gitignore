@@ -15,3 +15,9 @@ backend/out/
 backend/target/
 backend/src/main/resources/firebase-service-account.json
 backend/src/main/resources/application.properties
+
+mobile-app/node_modules/
+mobile-app/dist/
+mobile-app/build/
+mobile-app/.env
+mobile-app/.env.local
